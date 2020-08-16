@@ -1,0 +1,26 @@
+<root>
+<item>
+    <code>DE</code>
+    <price>100</price>
+</item>
+<item>
+    <code>BC</code>
+    <price>80</price>
+</item>
+<item>
+    <code>AB</code>
+    <price>120</price>
+</item>
+<item>
+    <code>XY</code>
+    <price>10</price>
+</item>
+<item>
+    <code>YY</code>
+    <price>10</price>
+</item>
+<item>
+    <code>DA</code>
+    <price>10</price>
+</item>
+</root>
